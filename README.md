@@ -1,4 +1,4 @@
-### Hi there, I'm Timothy - aka [DevSney] [https://sney.netlify.app] 👋 
+### Hi there, I'm Timothy - aka DevSney https://sney.netlify.app 👋 
 
 [![Website](https://img.shields.io/website?label=sney.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsney.netlify.app)](https://sney.netlify.app)
 
@@ -11,7 +11,7 @@
 <br /> <br/>
 
 
-###GitHub Stats
+###GitHub Stats:
 
   <img align="left" alt="Emeka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iloba&theme=highcontrast&show_icons=true&count_private=true" />
 
