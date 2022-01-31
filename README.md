@@ -1,7 +1,7 @@
 ### Hi there, I'm Timothy - aka [DevSney] [https://sney.netlify.app] 👋 
 
-[![Website](https://img.shields.io/website?label=sney.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsney.netlify,app)](https://sney.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/EmekaIloba?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=EmekaIloba)
+[![Website](https://img.shields.io/website?label=sney.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsney.netlify.app)](https://sney.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/EmekaIloba?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmekaIloba&screen_name=EmekaIloba)
 
 ### Connect with me:
 
@@ -9,7 +9,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-<br />
+<br /> <br/>
 
 <details>
   <summary>GitHub Stats</summary>
