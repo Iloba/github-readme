@@ -10,13 +10,11 @@
 
 
 <br />
-<br />
-
 
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iloba&show_icons=true&hide_border=true" />
+  <img align="left" alt="Emeka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iloba&theme=highcontrast&show_icons=true&count_private=true" />
 
 </details>
 
