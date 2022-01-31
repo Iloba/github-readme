@@ -11,7 +11,7 @@
 <br /> <br/>
 
 
-  <summary>GitHub Stats</summary>  <br/>
+###GitHub Stats
 
   <img align="left" alt="Emeka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iloba&theme=highcontrast&show_icons=true&count_private=true" />
 
